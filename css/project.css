@@ -1,0 +1,7 @@
+*{
+  transition: 0.5s all ease;
+}
+body{
+  background: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(255, 255, 255)) no-repeat;
+  background-size: cover;
+}
